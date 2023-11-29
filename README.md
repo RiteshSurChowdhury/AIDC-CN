@@ -1,1 +1,1 @@
-# Code for AIDC-CN
+# Code for the AIDC-CN
